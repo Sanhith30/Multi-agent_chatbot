@@ -638,10 +638,10 @@ If you found this project helpful or interesting:
 
 ## 📞 Contact & Connect
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Email**: your.email@example.com
-- **Portfolio**: [Your Portfolio Website](https://yourportfolio.com)
+- **GitHub**: [@sanhith30](https://github.com/sanhith30)
+- **LinkedIn**: [sanhith30](https://linkedin.com/in/sanhith30)
+- **Email**: sanhithreddy5131@gmail.com
+- **Portfolio**: [ Portfolio Website](https://sanhithme.vercel.app/)
 
 ---
 
