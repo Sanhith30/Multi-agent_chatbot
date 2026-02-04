@@ -1,4 +1,4 @@
-# 🚀 SunnyAI - Agentic AI Personal Loan Assistant
+#  SunnyAI - Agentic AI Personal Loan Assistant
 
 <div align="center">
 
