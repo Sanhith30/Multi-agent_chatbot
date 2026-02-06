@@ -12,7 +12,7 @@
 [![WebSocket](https://img.shields.io/badge/WebSocket-Real--time-orange?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 [![AI](https://img.shields.io/badge/AI-Multi--Agent-purple?style=flat-square&logo=openai)](https://openai.com)
 
-[Live Demo](#-live-demo) • [ Architecture](#️-system-architecture) • [🤖 AI Agents](#-multi-agent-orchestration) • [🚀 Quick Start](#-quick-start) • [📊 Features](#-key-features)
+[Live Demo](#-live-demo) • [ Architecture](#️-system-architecture) • [🤖 AI Agents](#-multi-agent-orchestration) • [ Quick Start](#-quick-start) • [📊 Features](#-key-features)
 
 </div>
 
